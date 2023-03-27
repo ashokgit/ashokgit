@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashokpoudel" target="blank"><img src="https://img.shields.io/twitter/follow/ashokpoudel?logo=twitter&style=for-the-badge" alt="ashokpoudel" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Agile and Scrum**
+- 🌱 I’m currently learning **Kubernetes, Generative AI, Finetuning LLMs, Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashokgit](https://github.com/ashokgit)
 
